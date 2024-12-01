@@ -1,0 +1,63 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+.idea-workspace
+.idea_modules/
+
+# Compiled files
+target/
+out/
+build/
+
+# Gauge - reports generated
+reports/
+logs/
+gauge_bin/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+log/
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Mobile
+*.apk
+*.ipa
+*.app
+
+# Test reports
+allure-results/
+extent-reports/
+test-output/
+
+# Others
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
